@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Khan</h1>
-<h3 align="center">A passionate frontend developer from Greater Noida.</h3>
+<h3 align="center">A passionate Frontend developer from Gr.Noida India.</h3>
 <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnank1646&label=Profile%20views&color=0e75b6&style=flat" alt="adnank1646" /> </p>
